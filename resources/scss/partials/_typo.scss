@@ -1,0 +1,30 @@
+// .h1{
+//   font-size: 3rem;
+// }
+
+// .h2{
+//   font-size: 2.5rem;
+// }
+
+// .h2{
+//   font-size: 2rem;
+// }
+
+// creo dei font da poter utilizzare nei testi poi userò ad esempio : fs-normal
+.fs{
+  &-normal{
+    font-size: 1rem;
+  }
+  &-big{
+    font-size: 2rem;
+  }
+  &-big{
+    font-size: 3rem;
+  }
+  &-big{
+    font-size: .8rem;
+  }
+  &-big{
+    font-size: .5rem;
+  }
+}
