@@ -70,6 +70,25 @@ return [
         ]
     ],
     [
+        "id" => 5,
+        "frontImage" => "5.webp",
+        "backImage" => "5b.webp",
+        "brand" => "Maya Deluxe",
+        "name" => "Stripe Bodice",
+        "price" => 99.99,
+        "isInFavorites" => true,
+        "badges" => [
+            [
+                "type" => "tag",
+                "value" => "Sostenibilità"
+            ],
+            [
+                "type" => "discount",
+                "value" => "-50%"
+            ]
+        ]
+    ],
+    [
         "id" => 6,
         "frontImage" => "6.webp",
         "backImage" => "6b.webp",
