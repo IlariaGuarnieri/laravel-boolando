@@ -1,0 +1,39 @@
+header{
+    height: 80px;
+    background-color: rgba(255,105,0,255);
+
+      .container.header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        max-height: 100%;
+
+        .options{
+        padding-right: 10px;
+          span{
+            font-size: 1rem;
+            padding: 10px;
+
+            &:hover{
+              text-decoration: underline;
+            }
+          }
+        }
+        .small-logo{
+          max-width: 40%;
+          max-height: 70%;
+
+        .logo{
+          width: 40%;
+          height: 50%;
+        }
+      }
+    }
+  }
+
+  span .fa-regular{
+    padding: 10px;
+    &:hover{
+      text-decoration: underline;
+      }
+  }

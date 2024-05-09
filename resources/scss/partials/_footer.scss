@@ -1,0 +1,36 @@
+footer{
+    color:white;
+    background-color: #1a1a1a;
+    padding: 10px 0;
+    .container{
+      display: flex;
+      padding: 20px 10px;
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+    .social-networks{
+        font-size: 21px;
+      }
+      ul{
+        display: flex;
+        list-style-type: none ;
+        li{
+          margin-right: 10px;
+          list-style-type: none ;
+          a{
+
+            color : white;
+            text-decoration: none;
+          }
+          &:hover{
+            text-decoration: underline;
+          }
+        }
+      }
+  }
+
+  // footer{
+  //   height: 100px;
+  //   background-color: black;
+  //   color: white;
+  // }
