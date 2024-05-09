@@ -1,5 +1,3 @@
-@use './variables' as *;
-
 * {
 	margin: 0;
 	padding: 0;
@@ -11,18 +9,18 @@ body{
 }
 
 .container{
-  display: flex;
+    display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-content: start;
 	width: 80%;
 	max-width:1000px;
 	margin: 40px auto;
-  position: relative;
-  text-align: center;
-  color: $color;
+    position: relative;
+    text-align: center;
+    color: #FFF;
 }
 
 img{
-  width: 100%;
+    width: 100%;
 }

@@ -10,19 +10,19 @@
     <h5>trovaci anche su</h5>
     <ul class="social-networks">
       <li>
-        <a href="#"> <i class="fa-brands fa-twitter-square"></i></a>
+        <a href="#">instagram <i class="fa-brands fa-youtube-square"></i></a>
       </li>
       <li>
-        <a href="#"> <i class="fa-brands fa-facebook-square"></i></a>
+        <a href="#">facebook <i class="fa-brands fa-youtube-square"></i></a>
       </li>
       <li>
-        <a href="#"> <i class="fa-brands fa-instagram-square"></i></a>
+        <a href="#">twitter <i class="fa-brands fa-youtube-square"></i></a>
       </li>
       <li>
-        <a href="#"> <i class="fa-brands fa-youtube-square"></i></a>
+        <a href="#">youtube <i class="fa-brands fa-youtube-square"></i></a>
       </li>
       <li>
-        <a href="#"> <i class="fa-brands fa-pinterest-square"></i></a>
+        <a href="#"> pinterest <i class="fa-brands fa-pinterest-square"></i></a>
       </li>
     </ul>
   </footer>

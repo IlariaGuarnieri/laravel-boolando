@@ -1,10 +1,11 @@
+// @import '@fontsource/roboto/index.css';
 @import './partials/footer';
 @import './partials/general';
 @import './partials/header';
 @import './partials/main';
 @import './partials/typo';
-@import './partials/typography';
 @import './partials/utils';
 @import './partials/variables';
 
+@import '~bootstrap/scss/bootstrap';
 // collego i pezzi di scss in main
